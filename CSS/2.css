@@ -1,0 +1,13 @@
+.v{
+    color: brown;
+    background-color: black;
+}
+.v1{
+    color: red;
+    background-color: aquamarine;
+}
+body{
+    background-image: url(/HTML/VT1.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

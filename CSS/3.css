@@ -1,0 +1,23 @@
+/* universal selector */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Element Selector */
+h1{
+    color: blue;
+    border: 2px solid black;
+}
+p{
+    color: aqua;
+}
+
+/* Class Selector */
+.one{
+    color: red;
+}
+
+/* ID Selector */
+#one{
+    background-color: red;
+}

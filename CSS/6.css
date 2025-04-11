@@ -1,0 +1,13 @@
+a{
+    color: purple;
+    text-decoration: none;
+}
+a:visited{
+    color: aquamarine;
+}
+a:active{
+    color: brown;
+}
+/* a:hover{
+    color: darkgreen;
+} */
