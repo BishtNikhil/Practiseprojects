@@ -1,15 +1,21 @@
  import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import Prac1 from './Prac1';
 import reportWebVitals from './reportWebVitals';
-import Demo from './Demo';
+// import Prac2 from './Prac2';
+// import Prac3 from './Prac3';
+import App from './App';
+// import A from './A';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-    <Demo />
+    {/* <Prac1/> */}
+    {/* <Prac2/> */}
+    {/* <Prac3/> */}
+    <App/>
+    {/* <A/> */}
   </React.StrictMode>
 );
 
